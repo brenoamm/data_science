@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=a9UrKTVEeZA
 Example TO Watch:
 https://www.youtube.com/watch?v=vmEHCJofslg
 
+Linear Regression
+https://www.youtube.com/watch?v=WngoqVB6cXw
+
 DataBase: Video Games Sale - Kaggle.com
 
 # graphviz install problem
